@@ -1,4 +1,8 @@
 # Curso de PYTHON por MOUREDEV
 
-visto 48:37 / 10:07:34
+- 00_hello
+  - Como mostrar un mensaje por consola.
+  - Tipos de datos basicos.
+  - Como saber el tipo de dato de algo.
+  - Tipos de comentarios.
 
