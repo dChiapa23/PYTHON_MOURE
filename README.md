@@ -13,4 +13,7 @@
     - len: devuelve el largo de una variable (cantidad de caracteres).
     - input: pide al usuario ingresar un dato.
   - Reasignar variables.
-  - cambiar el tipo de variable sobre ella misma, Es una mala práctica.
+  - Cambiar el tipo de variable sobre ella misma, Es una mala práctica.
+- 02_operators
+  - Operadores Aritméticos
+  - Operadores Comparativos
