@@ -15,6 +15,11 @@
   - Reasignar variables.
   - Cambiar el tipo de variable sobre ella misma, Es una mala práctica.
 - 02_operators
-  - Operadores Aritméticos
-  - Operadores Comparativos
-  - Operadores Lógicos
+  - Operadores Aritméticos.
+  - Operadores Comparativos.
+  - Operadores Lógicos.
+- 03_strings
+  - Cadenas de texto.
+  - Algunos caracteres especiales.
+  - Formateo.
+  - Desempaquetado de caracteres.
