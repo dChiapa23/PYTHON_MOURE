@@ -27,3 +27,11 @@ print("hola" >= "bola")
 print("hola" <= "python")
 print("hola" == "hola")
 print("hola" != "python")
+
+# Operadores Lógicos
+print(3 > 4 and "hola" > "python") # una proposición falsa Y otra proposición falsa = falso
+print(3 > 4 or "hola" > "python") # una proposición falsa O otra proposición falsa = falso
+print(3 < 4 and "hola" < "python") # una proposición verdadera Y otra proposición verdadera = verdadero
+print(3 < 4 or "hola" > "python") # una proposición verdadera O otra proposición falsa = verdadero
+print(3 < 4 or ("hola" > "python" and 4==4)) # una proposición verdadera O cualquier resultado de otra comparación = verdadero
+print(not(3 > 4)) # Not: niega el estado de algo, en este caso una comparación 

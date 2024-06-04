@@ -17,3 +17,4 @@
 - 02_operators
   - Operadores Aritméticos
   - Operadores Comparativos
+  - Operadores Lógicos
