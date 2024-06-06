@@ -20,12 +20,12 @@ print(my_int_to_string,"tipo de dato:",type(my_int_to_string))
 # len: devuelve el largo de una variable (cantidad de caracteres)
 print(len(my_string))
 
-#input: pide al usuario ingresar un dato
+# input: pide al usuario ingresar un dato
 name = input("Cual es tu nombre? ")
 age = input("Cual es tu edad? ")
 print("EL nombre ingresado es:", name, ", la edad ingresada es:", age)
 
-#las variables se pueden reasignar
+# las variables se pueden reasignar
 name = "Diego"
 age = 32
 print("Mi nombre es:", name, ", mi edad es:", age)
