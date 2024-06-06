@@ -24,7 +24,36 @@ print("Mi nombre es %s %s y mi edad es %d" %(name, surname, age))
 print(f"Mi nombre es {name} {surname} y mi edad es {age}")
 
 # Desempaquetado de caracteres
-language = "Python"
+language = "python"
 a, b, c, d, e, f = language
 print(a)
 print(b)
+
+# División de texto
+
+# Selecciona una parte del texto
+language_slice = language[1:3]
+print(language_slice)
+# Selecciona el final del texto empezando desde el carácter indicado
+language_slice = language[1:]
+print(language_slice)
+# Selecciona un carácter del texto comenzando desde el final
+language_slice = language[-2]
+print(language_slice)
+# Selecciona los caracteres que nosotros queremos
+language_slice = language[0:6:2]
+print(language_slice)
+
+# Revertir texto
+reversed_language = language[::-1]
+print(reversed_language )
+
+# Algunas funciones 
+print(language.capitalize()) #Poner primera letra en mayúscula
+print(language.upper()) #Poner texto en mayúsculas
+print(language.lower()) #Poner texto en minúsculas
+print(language.count("t")) #Contar cantidad de caracteres
+print(language.isnumeric()) #Comprobar si un texto es un numero
+print("1".isnumeric()) #Comprobar si un texto es un numero
+print(language.upper().isupper()) #Comprobar si un texto esta en mayúsculas
+print(language.lower().isupper()) #Comprobar si un texto esta en mayúsculas
