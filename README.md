@@ -36,6 +36,18 @@
     - Count: Contar cantidad de caracteres.
     - Isnumeric: Comprobar si un texto es un numero.
     - Isupper: Comprobar si un texto esta en mayúsculas.
-
-
-
+- 04_lists
+  - Acceder a un elemento especifico de una lista.
+  - Obtener la cantidad de veces que se repite un valor en una lista.
+  - Desempaquetar valores de una lista.
+  - Concatenar listas.
+  - Agregar elementos al final de la lista.
+  - Agregar elementos en el medio de la lista.
+  - Editar un elemento de la lista.
+  - Eliminar elementos de la lista.
+  - Eliminar un elemento por su indice, retornando el elemento.
+  - Eliminar un elemento por su indice, sin retornar el elemento.
+  - Copiar una lista.
+  - Vaciar lista.
+  - Dar vuelta una lista.
+  - Ordenar una lista.
