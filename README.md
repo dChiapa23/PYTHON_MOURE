@@ -51,3 +51,8 @@
   - Vaciar lista.
   - Dar vuelta una lista.
   - Ordenar una lista.
+- 05_tuples
+  - Obtener un valor de una tupla.
+  - Contar la cantidad de valores iguales en una tupla.
+  - Encontrar el indice del primer elemento que coincida en una tupla.
+  - Concatenar tuplas.
