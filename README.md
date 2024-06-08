@@ -56,3 +56,12 @@
   - Contar la cantidad de valores iguales en una tupla.
   - Encontrar el indice del primer elemento que coincida en una tupla.
   - Concatenar tuplas.
+- 06_sets
+  * Un set es una estructura desordenada.
+  * Un set no admite elementos repetidos.
+  - Comprobar si un elemento existe en un set.
+  - Eliminar un elemento de un set.
+  - Vaciar un set.
+  - Eliminar un set.
+  - Unir sets con valores diferentes.
+  - Obtener los valores que están en un set pero no en otro set.
