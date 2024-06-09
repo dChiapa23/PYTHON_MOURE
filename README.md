@@ -9,3 +9,4 @@
 - 06_sets
 - 07_ditcs
 - 08_conditionals
+- 09_loops
