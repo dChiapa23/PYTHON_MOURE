@@ -11,3 +11,4 @@
 - 08_conditionals
 - 09_loops
 - 10_functions
+- 11_classes
