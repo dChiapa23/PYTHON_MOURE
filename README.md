@@ -12,3 +12,4 @@
 - 09_loops
 - 10_functions
 - 11_classes
+- 12_exceptions
