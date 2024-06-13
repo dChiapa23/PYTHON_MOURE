@@ -15,5 +15,7 @@
   - 11_classes
   - 12_exceptions
   - 13_modules
+  
 - CURSO INTERMEDIATE:
   - 00_dates
+  - 01_list_comprehension
