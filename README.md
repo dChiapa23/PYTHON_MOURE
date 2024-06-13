@@ -19,3 +19,4 @@
 - CURSO INTERMEDIO:
   - 00_dates
   - 01_list_comprehension
+  - 02_challenges
