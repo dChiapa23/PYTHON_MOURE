@@ -1,6 +1,6 @@
 # Curso de PYTHON por MOUREDEV
 
-- CURSO BASICO:
+- CURSO BÁSICO:
   - 00_hello
   - 01_variables
   - 02_operators
@@ -16,6 +16,6 @@
   - 12_exceptions
   - 13_modules
   
-- CURSO INTERMEDIATE:
+- CURSO INTERMEDIO:
   - 00_dates
   - 01_list_comprehension
