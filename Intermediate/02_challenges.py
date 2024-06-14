@@ -85,4 +85,20 @@ def print_primes_numbers(start, end):
     if is_prime(n):
       print(n)
 
-print_primes_numbers(1, 100)
+#print_primes_numbers(1, 100)
+
+'''
+#7
+Crea un programa que invierta el orden de una cadena de texto sin usar funciones propias del lenguaje
+que lo hagan de forma automática. Si le pasamos "Hola mundo" nos retornaría "odnum aloH"
+'''
+
+def reverse_text(text):
+  new_text = ""
+  text_len = len(text)
+  for i in range(text_len):
+    new_index = text_len - i - 1
+    new_text += (text[new_index])
+  return new_text
+
+print(reverse_text("Hola mundo"))
