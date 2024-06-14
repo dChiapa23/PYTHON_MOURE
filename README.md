@@ -20,3 +20,4 @@
   - 00_dates
   - 01_list_comprehension
   - 02_challenges
+  - 03_lambdas
