@@ -22,3 +22,4 @@
   - 02_challenges
   - 03_lambdas
   - 04_higher_order_functions
+  - 05_error_typesW
