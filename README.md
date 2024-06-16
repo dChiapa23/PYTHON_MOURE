@@ -1,6 +1,6 @@
 # Curso de PYTHON Desde Cero hasta Backend por MOUREDEV
 
-## - [x] Curso de PYTHON desde CERO para PRINCIPIANTES
+## - Curso de PYTHON desde CERO para PRINCIPIANTES
 
 - [x] 00 - Hola Mundo
 - [x] 01 - Variables
@@ -17,7 +17,7 @@
 - [x] 12 - Excepciones
 - [x] 13 - Módulos
 
-## - [ ] Curso de PYTHON desde CERO para PRINCIPIANTES [Intermedio]
+## - Curso de PYTHON desde CERO para PRINCIPIANTES [Intermedio]
 
 - [x] 00 - Dates
 - [x] 01 - List Comprehension
@@ -29,7 +29,7 @@
 - [ ] 07 - Expresiones regulares
 - [ ] 08 - Manejo de paquetes
 
-## - [ ] Curso de PYTHON desde CERO para BACKEND
+## - Curso de PYTHON desde CERO para BACKEND
 
 - [ ] 00 - ¿Qué es un backend?
 - [ ] 01 - API y FastAPI
