@@ -25,7 +25,7 @@
 - [x] 03 - Lambdas
 - [x] 04 - Funciones de orden superior
 - [x] 05 - Tipos de error
-- [ ] 06 - Manejo de ficheros
+- [x] 06 - Manejo de ficheros
 - [ ] 07 - Expresiones regulares
 - [ ] 08 - Manejo de paquetes
 

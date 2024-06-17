@@ -1,0 +1,5 @@
+Mi nombre es Diego
+Mi apellido es Chiapa
+Tengo 32 años
+Y mi lenguaje preferido es Python
+Aunque tambien me gusta JavaScript
