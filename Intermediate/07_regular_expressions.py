@@ -68,3 +68,12 @@ print(re.findall(pattern, my_string))
 
 pattern = r"[l].*"
 print(re.findall(pattern, my_string))
+
+email="dchiapa@dchiapa.com"
+pattern = r"^[a-zA-Z0-9_.+-]+@[a-zA-Z0-9]+\.[a-za-zA-Z]+$"
+print(re.match(pattern, email))
+print(re.search(pattern, email))
+print(re.findall(pattern, email))
+
+email="dchiapa@dchiapa.e"
+print(re.findall(pattern, email))
