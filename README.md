@@ -31,9 +31,9 @@
 
 ## 02 - Curso de PYTHON desde CERO para BACKEND
 
-- [ ] 00 - ¿Qué es un backend?
-- [ ] 01 - API y FastAPI
-- [ ] 02 - Type Hints
+- [x] 00 - ¿Qué es un backend?
+- [x] 01 - API y FastAPI
+- [x] 02 - Type Hints
 - [ ] 03 - Configuración FastAPI
 - [ ] 04 - Hola mundo
 - [ ] 05 - Operación GET
