@@ -34,7 +34,7 @@
 - [x] 00 - ¿Qué es un backend?
 - [x] 01 - API y FastAPI
 - [x] 02 - Type Hints
-- [ ] 03 - Configuración FastAPI
+- [x] 03 - Configuración FastAPI
 - [ ] 04 - Hola mundo
 - [ ] 05 - Operación GET
 - [ ] 06 - Peticiones HTTP
