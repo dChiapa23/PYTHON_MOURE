@@ -27,7 +27,7 @@
 - [x] 05 - Tipos de error
 - [x] 06 - Manejo de ficheros
 - [x] 07 - Expresiones regulares
-- [ ] 08 - Manejo de paquetes
+- [x] 08 - Manejo de paquetes
 
 ## - Curso de PYTHON desde CERO para BACKEND
 
