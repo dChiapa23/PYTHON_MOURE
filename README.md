@@ -36,7 +36,7 @@
 - [x] 02 - Type Hints
 - [x] 03 - Configuración FastAPI
 - [x] 04 - Hola mundo
-- [ ] 05 - Operación GET
+- [x] 05 - Operación GET
 - [ ] 06 - Peticiones HTTP
 - [ ] 07 - Creación API
 - [ ] 08 - Path y Query
