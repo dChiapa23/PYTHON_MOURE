@@ -37,7 +37,7 @@
 - [x] 03 - Configuración FastAPI
 - [x] 04 - Hola mundo
 - [x] 05 - Operación GET
-- [ ] 06 - Peticiones HTTP
+- [x] 06 - Peticiones HTTP
 - [ ] 07 - Creación API
 - [ ] 08 - Path y Query
 - [ ] 09 - Operaciones POST, PUT y DELETE
