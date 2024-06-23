@@ -38,7 +38,7 @@
 - [x] 04 - Hola mundo
 - [x] 05 - Operación GET
 - [x] 06 - Peticiones HTTP
-- [ ] 07 - Creación API
+- [x] 07 - Creación API
 - [ ] 08 - Path y Query
 - [ ] 09 - Operaciones POST, PUT y DELETE
 - [ ] 10 - HTTP status codes
