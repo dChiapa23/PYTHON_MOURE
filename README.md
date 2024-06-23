@@ -39,7 +39,7 @@
 - [x] 05 - Operación GET
 - [x] 06 - Peticiones HTTP
 - [x] 07 - Creación API
-- [ ] 08 - Path y Query
+- [x] 08 - Path y Query
 - [ ] 09 - Operaciones POST, PUT y DELETE
 - [ ] 10 - HTTP status codes
 - [ ] 11 - Routers
