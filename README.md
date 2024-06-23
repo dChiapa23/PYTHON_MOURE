@@ -40,7 +40,7 @@
 - [x] 06 - Peticiones HTTP
 - [x] 07 - Creación API
 - [x] 08 - Path y Query
-- [ ] 09 - Operaciones POST, PUT y DELETE
+- [x] 09 - Operaciones POST, PUT y DELETE
 - [ ] 10 - HTTP status codes
 - [ ] 11 - Routers
 - [ ] 12 - Recursos estáticos
