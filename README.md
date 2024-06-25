@@ -41,7 +41,7 @@
 - [x] 07 - Creación API
 - [x] 08 - Path y Query
 - [x] 09 - Operaciones POST, PUT y DELETE
-- [ ] 10 - HTTP status codes
+- [x] 10 - HTTP status codes
 - [ ] 11 - Routers
 - [ ] 12 - Recursos estáticos
 - [ ] 13 - Autorización OAuth2
