@@ -34,7 +34,7 @@ async def user(id: int):
 # Operación POST
 @app.post("/user/", status_code=201)
 async def new_user(user: User):
-  if type(search_user(user.id)) == User:
+  if type(search_user(user.id)) == User or type(search_user_url(user.url)) == User:
     raise HTTPException(409, "El usuario ya existe.")
   else:
     users_list.append(user)
@@ -49,7 +49,7 @@ async def update_user(user: User):
       users_list[index] = user
       found = True
   if not found:
-    return {"error": "No se ha encontrado el usuario."}
+    return {"error": "No se ha actualizado el usuario."}
   else:
     return user
   
@@ -62,7 +62,7 @@ async def delete_user(id: int):
       del users_list[index]
       found = True
   if not found:
-    return {"error": "No se ha encontrado el usuario."}
+    return {"error": "No se ha eliminado el usuario."}
   else:
     return users_list
 
@@ -72,3 +72,10 @@ def search_user(id: int):
     return list(users)[0]
   except:
     return {"error": "No se ha encontrado el usuario."}
+  
+def search_user_url(url: str):
+  users = filter(lambda user: user.url == url, users_list)
+  try:
+    return list(users)[0]
+  except:
+    return {"error": "No se ha encontrado la url."}
