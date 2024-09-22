@@ -43,7 +43,7 @@
 - [x] 09 - Operaciones POST, PUT y DELETE
 - [x] 10 - HTTP status codes
 - [x] 11 - Routers
-- [ ] 12 - Recursos estáticos
+- [x] 12 - Recursos estáticos
 - [ ] 13 - Autorización OAuth2
 - [ ] 14 - OAuth2 JWT
 - [ ] 15 - MongoDB
