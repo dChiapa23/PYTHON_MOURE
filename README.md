@@ -44,7 +44,7 @@
 - [x] 10 - HTTP status codes
 - [x] 11 - Routers
 - [x] 12 - Recursos estáticos
-- [ ] 13 - Autorización OAuth2
+- [x] 13 - Autorización OAuth2
 - [ ] 14 - OAuth2 JWT
 - [ ] 15 - MongoDB
 - [ ] 16 - MongoDB Atlas
